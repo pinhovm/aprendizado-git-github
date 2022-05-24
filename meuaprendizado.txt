@@ -1,0 +1,1 @@
+Aqui eu aprendi como o GitHub funciona, fazer commits, criar branches, mudar para as branches, enviar projetos e clonar projetos do GitHub.
